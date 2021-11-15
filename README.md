@@ -1,15 +1,2 @@
 # Telegram-Temperatursensor
-## Hilfe - Übersicht
-            
-### Sensor-Befehle 
-##### /start
-##### /temp
-##### /status
-##### /alarm
-##### /interval
-##### /neustart
-### Erweiterte Admin-Befehle (Vorsicht!)
-##### /listid
-##### /addid
-##### /killid
-##### /factory
+## Ein Temperatursensor auf ESP8266 mit direkter Anbindung als Telegram-Bot.
