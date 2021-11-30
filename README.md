@@ -1,8 +1,8 @@
 # Telegram-Temperatursensor
 Ein Temperatursensor auf ESP8266 + DS18B20 wasserdichten Sensor mit direkter Anbindung als Telegram-Bot über WLAN.
 
-Damit ist es möglich, ohne weitere IoT/SmartHome-Installation diese Sensoren über Telegram-Nachrichten anzusprechen und auszuwerten.  
-Der Bot ist für Telegram vorkonfiguriert, beim ersten Start muss nur die Verbindung zum eigenen WLAN hergestellt werden.
+Damit ist es möglich, ohne weitere IoT/SmartHome-Installation diese Sensoren über Telegram-Nachrichten zu steuern und auszuwerten.  
+Der Bot ist für Telegram vorkonfiguriert, beim ersten Start muss nur die Verbindung zum eigenen WLAN hergestellt und der eigene Telegram-Account verbunden werden.
 
 
 Das Modul ist ein reines Hobby-Projekt (Bausatz).   
